@@ -10,7 +10,7 @@ import org.testng.annotations.Test;
 public class GmailLogin {
 	WebDriver driver;
 
-	@Test
+	
 	public void f() throws InterruptedException {
 		driver.get("https://mail.google.com/mail/");
 
